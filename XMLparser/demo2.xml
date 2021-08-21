@@ -1,0 +1,16 @@
+<data>
+    <customer id="1">
+        <name>Ahmet</name>
+        <subname>Şen</subname>
+        <tel>55555555</tel>
+        <address>Istanbul</address>
+    </customer>
+    <customer id="2">
+        <name>Mehmet</name>
+        <subname>Yaman</subname>
+        <tel>5554443332211</tel>
+        <address>Izmir</address>
+    </customer>
+</data>
+
+<customer>another</customer>
